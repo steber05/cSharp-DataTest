@@ -85,6 +85,7 @@ namespace DataTest
                 {
                     Console.WriteLine("{0}'s dice is unfair", line[0]);
                 }
+                //need to add ReverseArray(), CheckSorted(), BinarySearch
             }
         }//end of ReadDiceFile
 

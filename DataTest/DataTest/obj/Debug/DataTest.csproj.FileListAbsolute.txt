@@ -1,0 +1,7 @@
+D:\code\local\cSharp\source\repos\DataTest\DataTest\bin\Debug\DataTest.exe.config
+D:\code\local\cSharp\source\repos\DataTest\DataTest\bin\Debug\DataTest.exe
+D:\code\local\cSharp\source\repos\DataTest\DataTest\bin\Debug\DataTest.pdb
+D:\code\local\cSharp\source\repos\DataTest\DataTest\obj\Debug\DataTest.csprojAssemblyReference.cache
+D:\code\local\cSharp\source\repos\DataTest\DataTest\obj\Debug\DataTest.csproj.CoreCompileInputs.cache
+D:\code\local\cSharp\source\repos\DataTest\DataTest\obj\Debug\DataTest.exe
+D:\code\local\cSharp\source\repos\DataTest\DataTest\obj\Debug\DataTest.pdb
